@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext";
 import "../index.css";
 
-import logo from "../assets/logo.png";
+
 import Footer from "../components/Footer.jsx";
 
 export function Login() {
