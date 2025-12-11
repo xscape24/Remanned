@@ -3,7 +3,7 @@ import "../index.css";
 import { useNavigate } from "react-router-dom";
 import Footer from "../components/Footer.jsx";
 
-import logo from "../assets/logo.png";
+
 import spiritualBanner from "../assets/spiritual-banner.png";    // replaced
 import arcImg from "../assets/arc.png";                          // Replaced
 import vennImg from "../assets/venn.png";                        // Replaced with new venn diagram (no background)
